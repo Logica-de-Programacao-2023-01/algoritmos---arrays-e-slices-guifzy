@@ -20,4 +20,5 @@ func main() { //Crie um Slice de inteiros com o tamanho 5. Em seguida, solicite 
 		lista = append(lista, num)
 	}
 	fmt.Println(lista)
+
 }

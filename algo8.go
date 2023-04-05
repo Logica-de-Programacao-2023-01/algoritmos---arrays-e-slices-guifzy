@@ -15,7 +15,5 @@ func main() { //Crie um Slice de strings com tamanho 8 e solicite ao usuário qu
 			novoSlice = append(novoSlice, elemento)
 		}
 	}
-
 	fmt.Println(novoSlice)
-
 }
